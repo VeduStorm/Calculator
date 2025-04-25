@@ -38,7 +38,7 @@ Calculator/
 ## 🚀 Getting Started
 
 ### Requirements
-- Python 3.6+
+- Python 3.6+ (tested on 3.13.1)
 - Tkinter (usually comes with Python)
 
 ### Installation
