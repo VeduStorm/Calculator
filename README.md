@@ -1,3 +1,13 @@
+# 🧮 Python Calculator - Tkinter GUI Application
+
+Welcome to **Assignment 1** for **Module 10 & 11: GUI Development with Tkinter**. This repository contains a fully functional calculator application built with Python's Tkinter library.
+
+---
+
+## 📂 Repository Structure
+Calculator/
+├── main.py # Core calculator application
+└── requirements.txt # Dependency specification
 
 ---
 
