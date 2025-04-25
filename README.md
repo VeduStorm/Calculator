@@ -6,7 +6,9 @@ Welcome to **Assignment 1** for **Module 10 & 11: GUI Development with Tkinter**
 
 ## 📂 Repository Structure
 Calculator/
+
 ├── main.py # Core calculator application
+
 └── requirements.txt # Dependency specification
 
 ---
