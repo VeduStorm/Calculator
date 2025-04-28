@@ -44,7 +44,7 @@ Calculator/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Calculator.git
+git clone https://github.com/VeduStorm/Calculator.git
 
 # Navigate to project directory
 cd Calculator
